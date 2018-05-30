@@ -1,0 +1,17 @@
+	first	second	p-value	sig-level
+english_warriner_google	my_model_relu	aicyber	1.80119755853e-06	***
+english_warriner_common_crawl	my_model_relu	aicyber	0.000305055204238	***
+english_warriner_wikipedia	my_model_relu	aicyber	0.000229645876528	***
+english_warriner_sedoc	my_model_relu	aicyber	0.0159637057022	*
+english_anew_google	my_model_relu	li_regressor	3.98166709849e-06	***
+english_anew_common_crawl	my_model_relu	li_regressor	1.25973445595e-05	***
+english_anew_wikipedia	my_model_relu	aicyber	0.000251781246403	***
+spanish_redondo_wikipedia	my_model_relu	li_regressor	8.43262727526e-06	***
+spanish_stadthagen_wikipedia	my_model_relu	aicyber	0.000103637086124	***
+german_schmidtke_wikipedia	my_model_relu	li_regressor	6.39629807894e-05	***
+chinese_yu_wikipedia	my_model_relu	aicyber	0.00705531426468	**
+polish_imbir_wikipedia	my_model_relu	aicyber	1.86924165999e-05	***
+italian_montefinese_wikipedia	my_model_relu	turney	8.49698458304e-06	***
+portuguese_soares_wikipedia	my_model_relu	turney	4.49687683943e-05	***
+dutch_moors_wikipedia	my_model_relu	aicyber	7.38895696444e-05	***
+indonesian_sianipar_wikipedia	my_model_relu	li_regressor	7.38627551183e-06	***

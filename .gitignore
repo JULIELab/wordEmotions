@@ -1,0 +1,9 @@
+._*
+*.DS_Store
+*.pyc
+models/*
+results/*
+*.pdf
+*.cache
+*.swp
+*_
