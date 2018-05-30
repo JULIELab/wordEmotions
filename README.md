@@ -1,9 +1,14 @@
-# wordEmotions
+# Word Emotion Induction
+This repository holds code and data of our [NAACL 2018 paper](http://aclweb.org/anthology/N18-1173 ) on word emotion induction. 
 
-This repository holds code and data of our NAACL 2018 paper on word emotion induction. 
+## Introduction
+Word emotion induction is the task of predicting some complex emotion score for a given word. 
+
+This README file will shortly be updated and extended.
+
 
 ## Citation
-If you use out code please cite our paper 
+If you use this code please cite our paper: 
 ```
 @InProceedings{N18-1173,
   author = 	"Buechel, Sven
@@ -18,4 +23,8 @@ If you use out code please cite our paper
 }
 ```
 
+## Credits
+Our code for word embeddings is loosely based on the [Hyperwords](https://bitbucket.org/omerlevy/hyperwords) package by [Levy et al. (2015)](https://aclanthology.coli.uni-saarland.de/papers/Q15-1016/q15-1016). The original code for the boosted multi-layer perceptron approach by [Du and Zhang (2016)](https://doi.org/10.1109/IALP.2016.7875958) can be found [here](https://github.com/StevenLOL/ialp2016_Shared_Task).
 
+## Contact
+I am happy to give additional information or get feedback about our work via email: sven.buechel@uni-jena.de
