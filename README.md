@@ -1,14 +1,12 @@
 # Word Emotion Induction
-This repository holds code and data of our [NAACL 2018 paper](http://aclweb.org/anthology/N18-1173 ) on word emotion induction. 
+This repository holds code and data of our [NAACL 2018 paper](http://aclweb.org/anthology/N18-1173 ) on word emotion induction. This README file will shortly be updated and extended. 
 
 ## Introduction
 Word emotion induction is the task of predicting some complex emotion score for a given word. 
 
-This README file will shortly be updated and extended.
-
 
 ## Citation
-If you use this code please cite our paper: 
+If you use this code, please cite our paper: 
 ```
 @InProceedings{N18-1173,
   author = 	"Buechel, Sven
