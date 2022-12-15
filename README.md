@@ -1,4 +1,8 @@
 # Word Emotion Induction
+
+[![DOI](https://zenodo.org/badge/129468508.svg)](https://zenodo.org/badge/latestdoi/129468508)
+
+
 This repository holds code and data of our [NAACL 2018 paper](http://aclweb.org/anthology/N18-1173 ) on word emotion induction. This README file will shortly be updated and extended. 
 
 ## Introduction
